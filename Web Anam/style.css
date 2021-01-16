@@ -1,0 +1,18 @@
+body {
+    background-image: url(index.jpeg);
+    background-size: cover;
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+
+.header img {
+    border-radius: 50%;
+}
+
+.content {
+    text-align: center;
+}
